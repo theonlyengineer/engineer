@@ -1,0 +1,43 @@
+# Nizar — theonlyengineer.com
+
+> Nizar is a GenAI and software engineer working at the intersection of
+> generative-AI systems and the infrastructure that runs them: RAG and agent
+> pipelines, LLM integration, and the HPC, cloud, and DevOps platforms
+> underneath. Available for fractional AI-lead and build work.
+
+## About
+
+- [Home](https://theonlyengineer.com): positioning, services, and selected work.
+- [Privacy policy](https://theonlyengineer.com/privacy): what this site collects.
+- Contact: nizar@theonlyengineer.com
+- Code: https://github.com/theonlyengineer
+
+## Services
+
+- Fractional AI Lead — embedded 1-2 days/week as the GenAI decision-maker: architecture, build oversight, team upskilling.
+- RAG / Agent Build — a specific RAG pipeline or agent workflow, scoped and priced upfront, shipped end-to-end.
+- LLM Integration — an LLM feature taken from spike to production: evaluation, guardrails, cost and latency tuning.
+- GenAI Architecture Review — a short, paid audit of an existing GenAI system with a written, prioritized fix list.
+
+## Writing
+
+- [Blog](https://theonlyengineer.com/blog): index of all posts.
+- [RSS feed](https://theonlyengineer.com/rss.xml)
+
+- [Automating HPC Infrastructure](https://theonlyengineer.com/blog/automating-hpc-infrastructure): Using Apache CloudStack to manage cloud resources in your on-prem infrastructure. (published 2026-08-13)
+- [Modernizing OnPrem Infrastructure](https://theonlyengineer.com/blog/modernizing-on-prem-infrastructure): Bringing cloud-native tools into your on-prem infrastructure for automation and resiliency. (published 2026-08-13)
+
+## Courses
+
+Free, interactive, browser-based courses.
+
+- [All courses](https://theonlyengineer.com/courses)
+
+- [Linux Basics](https://theonlyengineer.com/courses/linux-basics): The command line, from zero. Learn how the shell actually works, how to move around a filesystem, and how to read the permissions and processes that everything else in Linux is built on.
+  - [What Is a Shell?](https://theonlyengineer.com/courses/linux-basics/what-is-a-shell): What you're actually talking to when you open a terminal.
+  - [Navigating the Filesystem](https://theonlyengineer.com/courses/linux-basics/navigating-the-filesystem): pwd, ls, and cd — and the tree they move you through.
+  - [Files and Directories](https://theonlyengineer.com/courses/linux-basics/files-and-directories): Creating, copying, moving, and deleting things without regret.
+  - [Reading and Editing Files](https://theonlyengineer.com/courses/linux-basics/reading-and-editing-files): cat, less, and surviving your first encounter with vim.
+  - [Permissions](https://theonlyengineer.com/courses/linux-basics/permissions): Why 'Permission denied' happens, and what rwx and chmod 644 really mean.
+  - [Processes](https://theonlyengineer.com/courses/linux-basics/processes): Every running thing has a number. Find it, watch it, stop it.
+  - [Pipes and Redirection](https://theonlyengineer.com/courses/linux-basics/pipes-and-redirection): The idea that makes the whole command line worth learning.

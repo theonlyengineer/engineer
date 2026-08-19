@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "linux-basics",
+    "title": "Linux Basics",
+    "subtitle": "Start at the prompt",
+    "description": "The command line, from zero. Learn how the shell actually works, how to move around a filesystem, and how to read the permissions and processes that everything else in Linux is built on.",
+    "level": "Beginner",
+    "tags": [
+      "linux",
+      "shell",
+      "terminal"
+    ],
+    "lessons": [
+      {
+        "slug": "what-is-a-shell",
+        "title": "What Is a Shell?",
+        "summary": "What you're actually talking to when you open a terminal.",
+        "src": "01-what-is-a-shell.md",
+        "minutes": 6
+      },
+      {
+        "slug": "navigating-the-filesystem",
+        "title": "Navigating the Filesystem",
+        "summary": "pwd, ls, and cd \u2014 and the tree they move you through.",
+        "src": "02-navigating-the-filesystem.md",
+        "minutes": 8
+      },
+      {
+        "slug": "files-and-directories",
+        "title": "Files and Directories",
+        "summary": "Creating, copying, moving, and deleting things without regret.",
+        "src": "03-files-and-directories.md",
+        "minutes": 9
+      },
+      {
+        "slug": "reading-and-editing-files",
+        "title": "Reading and Editing Files",
+        "summary": "cat, less, and surviving your first encounter with vim.",
+        "src": "04-reading-and-editing-files.md",
+        "minutes": 8
+      },
+      {
+        "slug": "permissions",
+        "title": "Permissions",
+        "summary": "Why 'Permission denied' happens, and what rwx and chmod 644 really mean.",
+        "src": "05-permissions.md",
+        "minutes": 10
+      },
+      {
+        "slug": "processes",
+        "title": "Processes",
+        "summary": "Every running thing has a number. Find it, watch it, stop it.",
+        "src": "06-processes.md",
+        "minutes": 9
+      },
+      {
+        "slug": "pipes-and-redirection",
+        "title": "Pipes and Redirection",
+        "summary": "The idea that makes the whole command line worth learning.",
+        "src": "07-pipes-and-redirection.md",
+        "minutes": 10
+      }
+    ],
+    "date": "2026-08-19",
+    "updated": "2026-08-19"
+  }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nizar — theonlyengineer.com</title>
+    <link>https://theonlyengineer.com</link>
+    <description>GenAI engineering, HPC, and the infrastructure underneath — notes from Nizar.</description>
+    <language>en</language>
+    <managingEditor>nizar@theonlyengineer.com (Nizar)</managingEditor>
+    <atom:link href="https://theonlyengineer.com/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Automating HPC Infrastructure</title>
+      <link>https://theonlyengineer.com/blog/automating-hpc-infrastructure</link>
+      <guid isPermaLink="true">https://theonlyengineer.com/blog/automating-hpc-infrastructure</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Using Apache CloudStack to manage cloud resources in your on-prem infrastructure.</description>
+      <author>nizar@theonlyengineer.com (Nizar)</author>
+      <category>hpc</category>
+      <category>cloudstack</category>
+    </item>
+    <item>
+      <title>Modernizing OnPrem Infrastructure</title>
+      <link>https://theonlyengineer.com/blog/modernizing-on-prem-infrastructure</link>
+      <guid isPermaLink="true">https://theonlyengineer.com/blog/modernizing-on-prem-infrastructure</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Bringing cloud-native tools into your on-prem infrastructure for automation and resiliency.</description>
+      <author>nizar@theonlyengineer.com (Nizar)</author>
+      <category>hpc</category>
+      <category>cloudstack</category>
+      <category>virtualization</category>
+    </item>
+  </channel>
+</rss>

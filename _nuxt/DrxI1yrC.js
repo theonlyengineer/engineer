@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as s,r as n}from"./DjF26c9n.js";const c={},r={class:"text-3xl sm:text-5xl lg:text-6xl lg:font-semibold font-medium font-serif m-0"};function _(t,l){return s(),o("h2",r,[n(t.$slots,"default")])}const f=e(c,[["render",_]]);export{f as _};
